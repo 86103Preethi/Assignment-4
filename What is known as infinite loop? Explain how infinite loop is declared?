@@ -1,0 +1,7 @@
+An infinite loop is defined as it runs infinitely without any condition.it can be broken by definiting any breaking logic in the body of the statement blocks.
+Sometimes infinite loopbis called endless loop .it's having lacks a functional exit so that is repeats indefinitely. Or in other words. It will continue execution you can integrate infinite loop as follows.
+For(; ;)
+{
+//Loop body
+//Breaking logic for loop termination
+}
